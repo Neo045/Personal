@@ -65,3 +65,29 @@ http://xtv.ooo:8080/Sloth701/Sloth701/66244
 http://xtv.ooo:8080/Sloth701/Sloth701/66266
 #EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCuwQ.jpg" group-title="VH1 India",VH1 HD
 http://xtv.ooo:8080/Sloth701/Sloth701/356076
+#EXTINF:-1 tvg-id="FIFA World Cup 2022" tvg-name="FIFA World Cup 2022 Opening Ceremony" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/22/urbDK0.jpg" group-title="FIFA World Cup 2022",FIFA World Cup 2022 Opening Ceremony
+http://starshare.live:8080/movie/53rumaiz87/7567new977/130064.mkv
+#EXTINF:-1 tvg-id="FIFA World Cup 2022" tvg-name="Argentina VS Saudi Arabia" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/22/urbNmX.jpg" group-title="FIFA World Cup 2022",Argentina VS Saudi Arabia
+http://starshare.live:8080/movie/53rumaiz87/7567new977/130062.mkv
+#EXTINF:-1 tvg-id="FIFA World Cup 2022" tvg-name="Argentina vs Mexico" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/22/urbiGk.jpg" group-title="FIFA World Cup 2022",Argentina vs Mexico
+http://starshare.live:8080/movie/53rumaiz87/7567new977/130206.mkv
+#EXTINF:-1 tvg-id="FIFA World Cup 2022" tvg-name="Argentina vs Poland" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/22/urbyBy.jpg" group-title="FIFA World Cup 2022",Argentina vs Poland
+http://starshare.live:8080/movie/53rumaiz87/7567new977/130581.mkv
+#EXTINF:-1 tvg-id="FIFA World Cup 2022" tvg-name="Argentina vs Netherlands" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/22/urbM0t.jpg" group-title="FIFA World Cup 2022",Argentina vs Netherlands
+http://starshare.live:8080/movie/53rumaiz87/7567new977/132498.mkv
+#EXTINF:-1 tvg-id="FIFA World Cup 2022" tvg-name="Argentina vs Croatia" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/22/urbz13.jpg" group-title="FIFA World Cup 2022",Argentina vs Croatia
+http://starshare.live:8080/movie/53rumaiz87/7567new977/132496.mkv
+#EXTINF:-1 tvg-id="FIFA World Cup 2022" tvg-name="Argentina vs France ( Final )" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/22/urb0dY.jpg" group-title="FIFA World Cup 2022",Argentina vs France ( Final )
+http://starshare.live:8080/movie/53rumaiz87/7567new977/133707.mkv
+#EXTINF:-1 tvg-id="FIFA World Cup 2022" tvg-name="Brazil vs Croatia" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/22/urbSNJ.jpg" group-title="FIFA World Cup 2022",Brazil vs Croatia
+http://starshare.live:8080/movie/53rumaiz87/7567new977/133706.mp4
+#EXTINF:-1 tvg-id="5" tvg-name="Kolkata Channels" tvg-logo="https://i.ibb.co/cxqWmZ5/images100x100.jpg" group-title="Kolkata Channels",Zee Bangla Multi Quality 2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/Zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Kolkata Channels" tvg-logo="https://i.ibb.co/cxqWmZ5/images100x100.jpg"group-title="Kolkata Channels",Zee Bangla 1080p 2 From Multi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Kolkata Channels" tvg-logo="https://i.ibb.co/JpfvHxj/Picsart231009201330555100x100.jpg" group-title="Kolkata Channels",Stra Jalsha HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Kolkata Channels" tvg-logo="https://i.ibb.co/JpfvHxj/Picsart231009201330555100x100.jpg" group-title="Kolkata Channels",Stra Jalsha Link 2
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Kolkata Channels" tvg-logo="https://i.ibb.co/mNJgH6X/channels4profile100x100.jpg"group-title="Kolkata Channels",Colors Bengla Multi Quality
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
