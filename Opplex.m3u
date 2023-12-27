@@ -633,3 +633,5 @@ http://watchindia.net:8880/live/90235/37541/1067.ts
 http://watchindia.net:8880/live/90235/37541/2145.ts
 #EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Astro_Cricket.png" group-title="Sports",Astro Cricket
 http://watchindia.net:8880/live/90235/37541/2174.ts
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-name="Sony Pix HD" tvg-logo="https://watchindia.net/images/channels/english/Sony_Pix.png" group-title="English Movies",Sony Pix HD
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2101.ts
