@@ -1,51 +1,55 @@
-EXTM3U
-#EXTINF:-1 tvg-id="Personal.neo" tvg-name="Happy New Year" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/21/uracsg.jpg" group-title="Shihab Rahman [ Must Open This Folder ]",Happy New Year
+#EXTM3U
+#EXTINF:-1 tvg-id="Personal.neo" tvg-name="Happy New Year" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/21/uracsg.jpg" group-title="Happy New Year",Happy New Year
 https://video.twimg.com/ext_tw_video/1739919024564412416/pr/pl/avc1/1280x720/mp4a/128000/aZ3bKbZEtvGiEg9h.m3u8?container=fmp4&tag=12
-#EXTINF:-1 tvg-id="Personal.neo" tvg-name="More Channels Coming Soon In This Category" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/21/uraqmQ.jpg" group-title="Shihab Rahman [ Must Open This Folder ]",More Channels Coming Soon In This Category
+#EXTINF:-1 tvg-id="Personal.neo2" tvg-name="More Channels Coming Soon In This Category" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/21/uraqmQ.jpg" group-title="More Channels Coming Soon In This Category",More Channels Coming Soon In This Category
 https://video.twimg.com/ext_tw_video/1737893636053057536/pr/pl/avc1/1280x720/mp4a/128000/WhlSxuS_hZ_kCIKN.m3u8?container=fmp4&variant_version=1&tag=12
-#EXTINF:-1,Star Sports Select 1
+#EXTINF:-1 tvg-id="Personal.neo3" tvg-name="How To Update Playlists [ কিভাবে প্লেলিস্ট আপডেট করবেন দেখে নিন ]" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/27/uvDSr0.jpg" group-title="How To Update Playlists [ কিভাবে প্লেলিস্ট আপডেট করবেন দেখে নিন ]",How To Update Playlists [ কিভাবে প্লেলিস্ট আপডেট করবেন দেখে নিন ]
+https://video.twimg.com/ext_tw_video/1740051233954758656/pr/pl/avc1/1280x720/mp4a/128000/2RCM9yDHyogzvULP.m3u8?container=fmp4&tag=12
+#EXTINF:-1 tvg-id="Neo.IPTV123" tvg-name="Neo Clone IPTV" tvg-logo="https://i5.cloudimage.xyz/pix/2023/12/28/uvDjXX.jpg" group-title="Welcome To Neo Clone IPTV",Welcome To Neo Clone IPTV
+https://video.twimg.com/ext_tw_video/1740074497586368512/pr/pl/avc1/720x720/mp4a/128000/6c9UVBd9iWcmvclw.m3u8?container=fmp4&tag=12
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Star Sports Select 1
 http://103.120.172.74:1030
-#EXTINF:-1,Zee Marathi 
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Zee Marathi 
 http://103.120.172.74:1040
-#EXTINF:-1,Star Pravah
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Star Pravah
 http://103.120.172.74:1060
-#EXTINF:-1,Colors
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Colors
 http://103.120.172.74:1070
-#EXTINF:-1,Hindi News
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Hindi News
 http://103.120.172.74:1090
-#EXTINF:-1,SET India
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",SET India
 http://103.120.172.74:1110
-#EXTINF:-1,StarPlus
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",StarPlus
 http://103.120.172.74:1120
-#EXTINF:-1,Zee TV
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Zee TV
 http://103.120.172.74:1140
-#EXTINF:-1,Sony Max
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Sony Max
 http://103.120.172.74:1150
-#EXTINF:-1,DD news
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",DD news
 http://103.120.172.74:1170
-#EXTINF:-1,Zee TV
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Zee TV
 http://103.120.172.74:4000
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Zee Cinema
 http://103.120.172.74:4100
-#EXTINF:-1,Star Sports 2
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Star Sports 2
 http://103.120.172.74:4200
-#EXTINF:-1,StarPlus
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",StarPlus
 http://103.120.172.74:4300
-#EXTINF:-1,Sony SAB
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Sony SAB
 http://103.120.172.74:4400
-#EXTINF:-1,Star Sports Select 2
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Star Sports Select 2
 http://103.120.172.74:4700
-#EXTINF:-1,Sony Sports Ten 2
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Sony Sports Ten 2
 http://103.120.172.74:4800
-#EXTINF:-1,Star Gold
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Star Gold
 http://103.120.172.74:5000
-#EXTINF:-1,SET
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",SET
 http://103.120.172.74:5100
-#EXTINF:-1,Star Bharat
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Star Bharat
 http://103.120.172.74:5200
-#EXTINF:-1,*Sony Sport5
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",*Sony Sport5
 http://103.120.172.74:5300
-#EXTINF:-1,Sony Sports Ten 1
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",Sony Sports Ten 1
 http://103.120.172.74:5400
-#EXTINF:-1,NDTV
+#EXTINF:-1 tvg-id="Dth1" tvg-name="Star Sports 1 HD 1" tvg-logo="" group-title="DTH 1",NDTV
 http://103.120.172.74:5500
