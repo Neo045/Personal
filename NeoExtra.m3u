@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Neo Extra" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/09/ufSAMZ.jpg" group-title="Neo Extra",Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Neo Extra" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/09/ufSAMZ.jpg" group-title="Neo Extra",Baraza Music TV
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Star Jalsha 720p
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Zee Bangla Multi
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/Zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Zee Bangla 1080p 1
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Zee Bangla 1080p 2
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Zee Bangla Link 1080 3
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Discovery Bangla Multi Quality
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Depto Tv Multi Quality
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Depto TV 1080p
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-1080p.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Somoy TV 1080p
+https://somoy.jaagobd.com/somoy/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Travelxp Multi Quality
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Travelxp 720p
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Personal" tvg-logo="https://i.ibb.co/xMJpLXB/profile-pic-1.png" group-title="Personal",Animal Planet Multi Quality
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="&TV Channels" tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b711288c7fbb343d4f4c331/1565809264187/87f589027d5620f2e5853709bde40098.png" group-title="Personal",&flix
+http://89.187.177.137:8081/&FLIX/index.m3u8
