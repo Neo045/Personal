@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/5329167.png" group-title="INDIAN",IN: & Pictures FHD
+http://195.26.87.217/live.ts?channelId=139&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN",IN: & TV FHD
+http://195.26.87.217/live.ts?channelId=140&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-logo="http://ujm.from-in.com/panel/imageicon/a8337e0.png" group-title="INDIAN",IN: & TV HD USA
+http://195.26.87.217/live.ts?channelId=141&uid=7435&deviceMac=00:1A:79:51:4B:3A
