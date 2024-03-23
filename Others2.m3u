@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
-#EXTM3U
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (4K)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max (4K)
 http://xtv.ooo:8080/63930/22722/109957
 #EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max (TATAPLAY)" tvg-logo="https://i5.cloudimage.xyz/pix/2023/11/11/ufCMYw.jpg" group-title="Sony Max",Sony Max (Tata Play)
@@ -100,3 +99,365 @@ http://xtv.ooo:8080/63930/22722/104191
 http://xtv.ooo:8080/63930/22722/206310
 #EXTINF:-1 tvg-id="" tvg-name="IND: Colors Cineplex Bollywood" tvg-logo="https://i5.cloudimage.xyz/pix/2024/01/27/uvXML3.jpg" group-title="Others",IND: Colors Cineplex Bollywood
 http://xtv.ooo:8080/63930/22722/112983
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="IN | Zoom TV" tvg-logo="https://static.epg.best/in/Zoom.in.png" group-title="INDIAN | MUSIC",IN | Zoom TV
+http://xtv.ooo:8080/63930/22722/66190
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="IN | 9xm" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="INDIAN | MUSIC",IN | 9xm
+http://xtv.ooo:8080/63930/22722/66192
+#EXTINF:-1 tvg-id="" tvg-name="IN | B4u Music" tvg-logo="https://static.epg.best/in/B4UMusic.in.png" group-title="INDIAN | MUSIC",IN | B4u Music
+http://xtv.ooo:8080/63930/22722/66203
+#EXTINF:-1 tvg-id="9xjalwa.in" tvg-name="IN | 9x Jalwa" tvg-logo="https://static.epg.best/in/9XJalwa.in.png" group-title="INDIAN | MUSIC",IN | 9x Jalwa
+http://xtv.ooo:8080/63930/22722/66226
+#EXTINF:-1 tvg-id="" tvg-name="IN | MTV BEAT" tvg-logo="https://static.epg.best/in/MTVBeats.in.png" group-title="INDIAN | MUSIC",IN | MTV BEAT
+http://xtv.ooo:8080/63930/22722/66273
+#EXTINF:-1 tvg-id="" tvg-name="ind-pun: Pittara TV" tvg-logo="" group-title="INDIAN | MUSIC",ind-pun: Pittara TV
+http://xtv.ooo:8080/63930/22722/66285
+#EXTINF:-1 tvg-id="" tvg-name="IN | 9x Tashan" tvg-logo="https://static.epg.best/in/9XTashan.in.png" group-title="INDIAN | MUSIC",IN | 9x Tashan
+http://xtv.ooo:8080/63930/22722/66289
+#EXTINF:-1 tvg-id="" tvg-name="IN: Mastii" tvg-logo="" group-title="INDIAN | MUSIC",IN: Mastii
+http://xtv.ooo:8080/63930/22722/112988
+#EXTINF:-1 tvg-id="housefullmovies.in" tvg-name="IN: UTV Bindass" tvg-logo="" group-title="INDIAN | MUSIC",IN: UTV Bindass
+http://xtv.ooo:8080/63930/22722/112993
+#EXTINF:-1 tvg-id="" tvg-name="IND-Punjabi: PTC MUSIC" tvg-logo="http://image3.mouthshut.com/images/imagesp/925599237s.png" group-title="INDIAN | MUSIC",IND-Punjabi: PTC MUSIC
+http://xtv.ooo:8080/63930/22722/153373
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC INDIA" tvg-logo="" group-title="INDIAN | MUSIC",MUSIC INDIA
+http://xtv.ooo:8080/63930/22722/190028
+#EXTINF:-1 tvg-id="" tvg-name="IN: Boogle Bollywood" tvg-logo="" group-title="INDIAN | MUSIC",IN: Boogle Bollywood
+http://xtv.ooo:8080/63930/22722/206045
+#EXTINF:-1 tvg-id="" tvg-name="IND: MTV HD +" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/MTV_Idol.svg/1200px-MTV_Idol.svg.png" group-title="INDIAN | MUSIC",IND: MTV HD +
+http://xtv.ooo:8080/63930/22722/206049
+#EXTINF:-1 tvg-id="" tvg-name="IND: MTV India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/1200px-MTV_2021_%28brand_version%29.svg.png" group-title="INDIAN | MUSIC",IND: MTV India
+http://xtv.ooo:8080/63930/22722/206054
+#EXTINF:-1 tvg-id="" tvg-name="IND:PB: Balle Balle" tvg-logo="" group-title="INDIAN | MUSIC",IND:PB: Balle Balle
+http://xtv.ooo:8080/63930/22722/219495
+#EXTINF:-1 tvg-id="" tvg-name="IND:PB: Wah Punjabi" tvg-logo="" group-title="INDIAN | MUSIC",IND:PB: Wah Punjabi
+http://xtv.ooo:8080/63930/22722/219496
+#EXTINF:-1 tvg-id="" tvg-name="IND: ZING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" group-title="INDIAN | MUSIC",IND: ZING
+http://xtv.ooo:8080/63930/22722/219497
+#EXTINF:-1 tvg-id="" tvg-name="***IND: SPORTS (4K ULTRA HD)***" tvg-logo="" group-title="INDIAN | SPORTS 4K (ULTRA HD)",***IND: SPORTS (4K ULTRA HD)***
+http://xtv.ooo:8080/63930/22722/109982
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten1.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 1 (4K)
+http://xtv.ooo:8080/63930/22722/109983
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 2 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten2.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 2 (4K)
+http://xtv.ooo:8080/63930/22722/109984
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 (4K)" tvg-logo="http://openboxv8s.com/india/sony-ten3.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Sony Ten 3 (4K)
+http://xtv.ooo:8080/63930/22722/109985
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sport 1 HINDI (4K)
+http://xtv.ooo:8080/63930/22722/109986
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 1 (4K)
+http://xtv.ooo:8080/63930/22722/109987
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 (4K)" tvg-logo="" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports 2 (4K)
+http://xtv.ooo:8080/63930/22722/109988
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="SONY SIX (4K)" tvg-logo="http://openboxv8s.com/india/sony_six_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)",SONY SIX (4K)
+http://xtv.ooo:8080/63930/22722/109992
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports_in_1_hindi.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports Select 1 (4K)
+http://xtv.ooo:8080/63930/22722/109993
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 (4K)" tvg-logo="http://openboxv8s.com/india/star_sports2_in.jpg" group-title="INDIAN | SPORTS 4K (ULTRA HD)",Star Sports Select 2 (4K)
+http://xtv.ooo:8080/63930/22722/109994
+#EXTINF:-1 tvg-id="dsport.in" tvg-name="IN: EUROPSPORT (4K)" tvg-logo="https://e7.pngegg.com/pngimages/317/742/png-clipart-europe-eurosport-1-television-channel-others-television-blue.png" group-title="INDIAN | SPORTS 4K (ULTRA HD)",IN: EUROPSPORT (4K)
+http://xtv.ooo:8080/63930/22722/206324
+#EXTINF:-1 tvg-id="" tvg-name="Live Cams" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Live Cams
+http://xtv.ooo:8080/63930/22722/33710
+#EXTINF:-1 tvg-id="" tvg-name="Anal" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Anal
+http://xtv.ooo:8080/63930/22722/33711
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Big Ass
+http://xtv.ooo:8080/63930/22722/33712
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Big Dick
+http://xtv.ooo:8080/63930/22722/33713
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Big Tits
+http://xtv.ooo:8080/63930/22722/33714
+#EXTINF:-1 tvg-id="" tvg-name="Blonde" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Blonde
+http://xtv.ooo:8080/63930/22722/33715
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Blowjob
+http://xtv.ooo:8080/63930/22722/33716
+#EXTINF:-1 tvg-id="" tvg-name="Brunette" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Brunette
+http://xtv.ooo:8080/63930/22722/33717
+#EXTINF:-1 tvg-id="" tvg-name="Compilation" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Compilation
+http://xtv.ooo:8080/63930/22722/33718
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Cuckold
+http://xtv.ooo:8080/63930/22722/33719
+#EXTINF:-1 tvg-id="" tvg-name="Fetish" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Fetish
+http://xtv.ooo:8080/63930/22722/33720
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Gangbang
+http://xtv.ooo:8080/63930/22722/33721
+#EXTINF:-1 tvg-id="" tvg-name="Gay" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Gay
+http://xtv.ooo:8080/63930/22722/33722
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Hardcore
+http://xtv.ooo:8080/63930/22722/33723
+#EXTINF:-1 tvg-id="" tvg-name="Interracial" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Interracial
+http://xtv.ooo:8080/63930/22722/33724
+#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Latina
+http://xtv.ooo:8080/63930/22722/33725
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Lesbian
+http://xtv.ooo:8080/63930/22722/33726
+#EXTINF:-1 tvg-id="" tvg-name="MILF" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",MILF
+http://xtv.ooo:8080/63930/22722/33727
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Pornstar
+http://xtv.ooo:8080/63930/22722/33728
+#EXTINF:-1 tvg-id="" tvg-name="POV" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",POV
+http://xtv.ooo:8080/63930/22722/33729
+#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Rough
+http://xtv.ooo:8080/63930/22722/33730
+#EXTINF:-1 tvg-id="" tvg-name="Russian" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Russian
+http://xtv.ooo:8080/63930/22722/33731
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Teen
+http://xtv.ooo:8080/63930/22722/33732
+#EXTINF:-1 tvg-id="" tvg-name="Threesome" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Threesome
+http://xtv.ooo:8080/63930/22722/33733
+#EXTINF:-1 tvg-id="" tvg-name="AST TV 1" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",AST TV 1
+http://xtv.ooo:8080/63930/22722/33735
+#EXTINF:-1 tvg-id="" tvg-name="AST TV 2" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",AST TV 2
+http://xtv.ooo:8080/63930/22722/33736
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Jasmin TV
+http://xtv.ooo:8080/63930/22722/33739
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV Jenny Live" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Miami TV Jenny Live
+http://xtv.ooo:8080/63930/22722/33742
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV Latino" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Miami TV Latino
+http://xtv.ooo:8080/63930/22722/33743
+#EXTINF:-1 tvg-id="" tvg-name="Visit-X TV" tvg-logo="http://adultiptv.net/lists/logo.png" group-title="[XXX] ADULT",Visit-X TV
+http://xtv.ooo:8080/63930/22722/33753
+#EXTINF:-1 tvg-id="" tvg-name="XXX RedTraffic 12" tvg-logo="" group-title="[XXX] ADULT",XXX RedTraffic 12
+http://xtv.ooo:8080/63930/22722/33767
+#EXTINF:-1 tvg-id="" tvg-name="LATINA XXX" tvg-logo="" group-title="[XXX] ADULT",LATINA XXX
+http://xtv.ooo:8080/63930/22722/33768
+#EXTINF:-1 tvg-id="" tvg-name="XXX RUSSIAN XXX" tvg-logo="" group-title="[XXX] ADULT",XXX RUSSIAN XXX
+http://xtv.ooo:8080/63930/22722/33769
+#EXTINF:-1 tvg-id="" tvg-name="BLOWJOB XXX" tvg-logo="" group-title="[XXX] ADULT",BLOWJOB XXX
+http://xtv.ooo:8080/63930/22722/33770
+#EXTINF:-1 tvg-id="" tvg-name="XXX MILF HD" tvg-logo="" group-title="[XXX] ADULT",XXX MILF HD
+http://xtv.ooo:8080/63930/22722/33771
+#EXTINF:-1 tvg-id="" tvg-name="THREE SOME XXX" tvg-logo="" group-title="[XXX] ADULT",THREE SOME XXX
+http://xtv.ooo:8080/63930/22722/33772
+#EXTINF:-1 tvg-id="" tvg-name="CUCKOLD XXX" tvg-logo="" group-title="[XXX] ADULT",CUCKOLD XXX
+http://xtv.ooo:8080/63930/22722/33773
+#EXTINF:-1 tvg-id="" tvg-name="AL: TEEN XXX" tvg-logo="" group-title="[XXX] ADULT",AL: TEEN XXX
+http://xtv.ooo:8080/63930/22722/33774
+#EXTINF:-1 tvg-id="" tvg-name="POV XXX" tvg-logo="" group-title="[XXX] ADULT",POV XXX
+http://xtv.ooo:8080/63930/22722/33775
+#EXTINF:-1 tvg-id="" tvg-name="BIG DICK XXX" tvg-logo="" group-title="[XXX] ADULT",BIG DICK XXX
+http://xtv.ooo:8080/63930/22722/33776
+#EXTINF:-1 tvg-id="" tvg-name="BIG ASS XXX" tvg-logo="" group-title="[XXX] ADULT",BIG ASS XXX
+http://xtv.ooo:8080/63930/22722/33777
+#EXTINF:-1 tvg-id="" tvg-name="PORN STAR XXX" tvg-logo="" group-title="[XXX] ADULT",PORN STAR XXX
+http://xtv.ooo:8080/63930/22722/33778
+#EXTINF:-1 tvg-id="" tvg-name="LESBIAN XXX" tvg-logo="" group-title="[XXX] ADULT",LESBIAN XXX
+http://xtv.ooo:8080/63930/22722/33779
+#EXTINF:-1 tvg-id="" tvg-name="BIG TITS XXX" tvg-logo="" group-title="[XXX] ADULT",BIG TITS XXX
+http://xtv.ooo:8080/63930/22722/33780
+#EXTINF:-1 tvg-id="" tvg-name="ANAL XXX" tvg-logo="" group-title="[XXX] ADULT",ANAL XXX
+http://xtv.ooo:8080/63930/22722/33781
+#EXTINF:-1 tvg-id="" tvg-name="FETISH XXX" tvg-logo="" group-title="[XXX] ADULT",FETISH XXX
+http://xtv.ooo:8080/63930/22722/33782
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV" tvg-logo="" group-title="[XXX] ADULT",Miami TV
+http://xtv.ooo:8080/63930/22722/33785
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV" tvg-logo="" group-title="[XXX] ADULT",Jasmin TV
+http://xtv.ooo:8080/63930/22722/33786
+#EXTINF:-1 tvg-id="" tvg-name="PRIVE TV" tvg-logo="" group-title="[XXX] ADULT",PRIVE TV
+http://xtv.ooo:8080/63930/22722/33787
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV Latino" tvg-logo="" group-title="[XXX] ADULT",Miami TV Latino
+http://xtv.ooo:8080/63930/22722/33788
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-logo="" group-title="[XXX] ADULT",Lesbian
+http://xtv.ooo:8080/63930/22722/33789
+#EXTINF:-1 tvg-id="" tvg-name="BlowjoB HD" tvg-logo="" group-title="[XXX] ADULT",BlowjoB HD
+http://xtv.ooo:8080/63930/22722/33790
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold HD" tvg-logo="" group-title="[XXX] ADULT",Cuckold HD
+http://xtv.ooo:8080/63930/22722/33791
+#EXTINF:-1 tvg-id="" tvg-name="Fetish HD" tvg-logo="" group-title="[XXX] ADULT",Fetish HD
+http://xtv.ooo:8080/63930/22722/33792
+#EXTINF:-1 tvg-id="" tvg-name="Interracial HD" tvg-logo="" group-title="[XXX] ADULT",Interracial HD
+http://xtv.ooo:8080/63930/22722/33793
+#EXTINF:-1 tvg-id="" tvg-name="POV HD" tvg-logo="" group-title="[XXX] ADULT",POV HD
+http://xtv.ooo:8080/63930/22722/33794
+#EXTINF:-1 tvg-id="" tvg-name="Russian HD" tvg-logo="" group-title="[XXX] ADULT",Russian HD
+http://xtv.ooo:8080/63930/22722/33795
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob" tvg-logo="" group-title="[XXX] ADULT",Blowjob
+http://xtv.ooo:8080/63930/22722/33796
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass" tvg-logo="" group-title="[XXX] ADULT",Big Ass
+http://xtv.ooo:8080/63930/22722/33797
+#EXTINF:-1 tvg-id="" tvg-name="Hard Core" tvg-logo="" group-title="[XXX] ADULT",Hard Core
+http://xtv.ooo:8080/63930/22722/33798
+#EXTINF:-1 tvg-id="" tvg-name="Three Some" tvg-logo="" group-title="[XXX] ADULT",Three Some
+http://xtv.ooo:8080/63930/22722/33799
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV" tvg-logo="" group-title="[XXX] ADULT",Jasmin TV
+http://xtv.ooo:8080/63930/22722/33811
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV" tvg-logo="" group-title="[XXX] ADULT",Miami TV
+http://xtv.ooo:8080/63930/22722/33812
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  XXX ADULTOS  ▆ ▅ ▄ ▂" tvg-logo="" group-title="[XXX] ADULT",▂ ▄ ▅ ▆  XXX ADULTOS  ▆ ▅ ▄ ▂
+http://xtv.ooo:8080/63930/22722/81036
+#EXTINF:-1 tvg-id="" tvg-name="MyLocal: Fake Taxi FHD 1080p" tvg-logo="" group-title="[XXX] ADULT",MyLocal: Fake Taxi FHD 1080p
+http://xtv.ooo:8080/63930/22722/187251
+#EXTINF:-1 tvg-id="" tvg-name="MyLocal: Redhat DORCEL FHD" tvg-logo="" group-title="[XXX] ADULT",MyLocal: Redhat DORCEL FHD
+http://xtv.ooo:8080/63930/22722/187256
+#EXTINF:-1 tvg-id="" tvg-name="VIP-XXX: Scoreland  2 1080p" tvg-logo="" group-title="[XXX] ADULT",VIP-XXX: Scoreland  2 1080p
+http://xtv.ooo:8080/63930/22722/187261
+#EXTINF:-1 tvg-id="" tvg-name="VIP-XXX: Scoreland 7 1080p" tvg-logo="" group-title="[XXX] ADULT",VIP-XXX: Scoreland 7 1080p
+http://xtv.ooo:8080/63930/22722/187266
+#EXTINF:-1 tvg-id="" tvg-name="VIP-XXX: VIP SEX 2" tvg-logo="" group-title="[XXX] ADULT",VIP-XXX: VIP SEX 2
+http://xtv.ooo:8080/63930/22722/187268
+#EXTINF:-1 tvg-id="" tvg-name="VIP-XXX: VIP SEX 3" tvg-logo="" group-title="[XXX] ADULT",VIP-XXX: VIP SEX 3
+http://xtv.ooo:8080/63930/22722/187269
+#EXTINF:-1 tvg-id="" tvg-name="VIP-XXX: VIP SEX 4" tvg-logo="" group-title="[XXX] ADULT",VIP-XXX: VIP SEX 4
+http://xtv.ooo:8080/63930/22722/187270
+#EXTINF:-1 tvg-id="" tvg-name="XxX:Penthouse-2" tvg-logo="" group-title="[XXX] ADULT",XxX:Penthouse-2
+http://xtv.ooo:8080/63930/22722/187271
+#EXTINF:-1 tvg-id="" tvg-name="XxX:Gay1 (Ghandoo)" tvg-logo="" group-title="[XXX] ADULT",XxX:Gay1 (Ghandoo)
+http://xtv.ooo:8080/63930/22722/187278
+#EXTINF:-1 tvg-id="" tvg-name="XxX:POV Redhat SEX" tvg-logo="" group-title="[XXX] ADULT",XxX:POV Redhat SEX
+http://xtv.ooo:8080/63930/22722/187280
+#EXTINF:-1 tvg-id="" tvg-name="XxX:Teen Redhat SEX" tvg-logo="" group-title="[XXX] ADULT",XxX:Teen Redhat SEX
+http://xtv.ooo:8080/63930/22722/187281
+#EXTINF:-1 tvg-id="" tvg-name="XxX:Redhat SEX Private" tvg-logo="" group-title="[XXX] ADULT",XxX:Redhat SEX Private
+http://xtv.ooo:8080/63930/22722/187282
+#EXTINF:-1 tvg-id="" tvg-name="XxX:Sexation Movies" tvg-logo="" group-title="[XXX] ADULT",XxX:Sexation Movies
+http://xtv.ooo:8080/63930/22722/187286
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 1" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 1
+http://xtv.ooo:8080/63930/22722/187289
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 2" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 2
+http://xtv.ooo:8080/63930/22722/187290
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 3" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 3
+http://xtv.ooo:8080/63930/22722/187291
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 5" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 5
+http://xtv.ooo:8080/63930/22722/187293
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 6" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 6
+http://xtv.ooo:8080/63930/22722/187294
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 8" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 8
+http://xtv.ooo:8080/63930/22722/187296
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 9" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 9
+http://xtv.ooo:8080/63930/22722/187297
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 10" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 10
+http://xtv.ooo:8080/63930/22722/187298
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 13" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 13
+http://xtv.ooo:8080/63930/22722/187301
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 16" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 16
+http://xtv.ooo:8080/63930/22722/187303
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 17" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 17
+http://xtv.ooo:8080/63930/22722/187304
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 19" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 19
+http://xtv.ooo:8080/63930/22722/187306
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 23" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 23
+http://xtv.ooo:8080/63930/22722/187310
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 26" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 26
+http://xtv.ooo:8080/63930/22722/187313
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 27" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 27
+http://xtv.ooo:8080/63930/22722/187314
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 28" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 28
+http://xtv.ooo:8080/63930/22722/187315
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 29" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 29
+http://xtv.ooo:8080/63930/22722/187316
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 34" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 34
+http://xtv.ooo:8080/63930/22722/187321
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 36" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 36
+http://xtv.ooo:8080/63930/22722/187323
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 37" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 37
+http://xtv.ooo:8080/63930/22722/187324
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 38" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 38
+http://xtv.ooo:8080/63930/22722/187325
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 39" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 39
+http://xtv.ooo:8080/63930/22722/187326
+#EXTINF:-1 tvg-id="" tvg-name="Redhat SEX 40" tvg-logo="" group-title="[XXX] ADULT",Redhat SEX 40
+http://xtv.ooo:8080/63930/22722/187327
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Free X TV XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Free X TV XXX
+http://xtv.ooo:8080/63930/22722/187363
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Playhouse XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Playhouse XXX
+http://xtv.ooo:8080/63930/22722/187364
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Meiden Van Holland Hard XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Meiden Van Holland Hard XXX
+http://xtv.ooo:8080/63930/22722/187365
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Sexy HOT XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Sexy HOT XXX
+http://xtv.ooo:8080/63930/22722/187366
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Sextreme XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Sextreme XXX
+http://xtv.ooo:8080/63930/22722/187367
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Venus TV XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Venus TV XXX
+http://xtv.ooo:8080/63930/22722/187368
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Hot TV XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Hot TV XXX
+http://xtv.ooo:8080/63930/22722/187369
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Passie XXX XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Passie XXX XXX
+http://xtv.ooo:8080/63930/22722/187370
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:DUSK! XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:DUSK! XXX
+http://xtv.ooo:8080/63930/22722/187371
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Babes TV HD XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Babes TV HD XXX
+http://xtv.ooo:8080/63930/22722/187372
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Dream Porn HD XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Dream Porn HD XXX
+http://xtv.ooo:8080/63930/22722/187373
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Stars XXX HD XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Stars XXX HD XXX
+http://xtv.ooo:8080/63930/22722/187374
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:Dorcel XXX HD XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:Dorcel XXX HD XXX
+http://xtv.ooo:8080/63930/22722/187375
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:X-MO GAY XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:X-MO GAY XXX
+http://xtv.ooo:8080/63930/22722/187376
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:FAST BOYZ GAY XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:FAST BOYZ GAY XXX
+http://xtv.ooo:8080/63930/22722/187377
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:ALBA XXX 5" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:ALBA XXX 5
+http://xtv.ooo:8080/63930/22722/187378
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:ALBA XXX 4" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:ALBA XXX 4
+http://xtv.ooo:8080/63930/22722/187379
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:ALBA XXX 3" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:ALBA XXX 3
+http://xtv.ooo:8080/63930/22722/187380
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:SUPER ONE XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:SUPER ONE XXX
+http://xtv.ooo:8080/63930/22722/187381
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:MIAMI TV XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:MIAMI TV XXX
+http://xtv.ooo:8080/63930/22722/187382
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:BLUE HUSTLER" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:BLUE HUSTLER
+http://xtv.ooo:8080/63930/22722/187383
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:PREMIUM PORN" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:PREMIUM PORN
+http://xtv.ooo:8080/63930/22722/187384
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:ALBA XXX 2" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:ALBA XXX 2
+http://xtv.ooo:8080/63930/22722/187385
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:ALBA XXX 1" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:ALBA XXX 1
+http://xtv.ooo:8080/63930/22722/187386
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:XXL" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:XXL
+http://xtv.ooo:8080/63930/22722/187387
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:FAP TV 4" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:FAP TV 4
+http://xtv.ooo:8080/63930/22722/187388
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:FAP TV 3" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:FAP TV 3
+http://xtv.ooo:8080/63930/22722/187389
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:FAP TV COMPILATION" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:FAP TV COMPILATION
+http://xtv.ooo:8080/63930/22722/187390
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:FAP TV LESBIAN" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:FAP TV LESBIAN
+http://xtv.ooo:8080/63930/22722/187391
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:BRAZZERS" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:BRAZZERS
+http://xtv.ooo:8080/63930/22722/187393
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:FAP TV PARODY" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:FAP TV PARODY
+http://xtv.ooo:8080/63930/22722/187394
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:CENTO X CENTO" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:CENTO X CENTO
+http://xtv.ooo:8080/63930/22722/187395
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:SEXTOSENSO" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:SEXTOSENSO
+http://xtv.ooo:8080/63930/22722/187396
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:FAP TV ANAL" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:FAP TV ANAL
+http://xtv.ooo:8080/63930/22722/187397
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:FAP TV 2" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:FAP TV 2
+http://xtv.ooo:8080/63930/22722/187398
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:CANDY TV" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:CANDY TV
+http://xtv.ooo:8080/63930/22722/187399
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:SHALUN TV" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:SHALUN TV
+http://xtv.ooo:8080/63930/22722/187401
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:OH AH TV" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:OH AH TV
+http://xtv.ooo:8080/63930/22722/187402
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:PINK O TV" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:PINK O TV
+http://xtv.ooo:8080/63930/22722/187403
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:SCT" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:SCT
+http://xtv.ooo:8080/63930/22722/187404
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:O LA LA" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:O LA LA
+http://xtv.ooo:8080/63930/22722/187405
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:PENTHOUSE QUICKIES" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:PENTHOUSE QUICKIES
+http://xtv.ooo:8080/63930/22722/187406
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:PASSION XXX" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:PASSION XXX
+http://xtv.ooo:8080/63930/22722/187407
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:NUART" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:NUART
+http://xtv.ooo:8080/63930/22722/187408
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:RUSSKAYA NOCH" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:RUSSKAYA NOCH
+http://xtv.ooo:8080/63930/22722/187409
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:PRIVATE" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:PRIVATE
+http://xtv.ooo:8080/63930/22722/187410
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:JASMIN" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:JASMIN
+http://xtv.ooo:8080/63930/22722/187411
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:REDLIGHT" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:REDLIGHT
+http://xtv.ooo:8080/63930/22722/187412
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:DORCEL" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:DORCEL
+http://xtv.ooo:8080/63930/22722/187413
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:ERO X" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:ERO X
+http://xtv.ooo:8080/63930/22722/187414
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:PLAYBOY EUROPE" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:PLAYBOY EUROPE
+http://xtv.ooo:8080/63930/22722/187415
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:HUSTLER HD" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:HUSTLER HD
+http://xtv.ooo:8080/63930/22722/187416
+#EXTINF:-1 tvg-id="" tvg-name="ᵡᵡᵡʜᴅ:VIVID RED" tvg-logo="" group-title="[XXX] ADULT",ᵡᵡᵡʜᴅ:VIVID RED
+http://xtv.ooo:8080/63930/22722/187417
